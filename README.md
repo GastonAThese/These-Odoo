@@ -1,2 +1,2 @@
 # These-Odoo
-Proyecto en Odoo
+Proyecto en Odoo.
